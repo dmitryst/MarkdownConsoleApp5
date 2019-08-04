@@ -1,6 +1,6 @@
 | sCode | RETAIL                                                                | EVRAZ                                                       |
 |-------|-----------------------------------------------------------------------|-------------------------------------------------------------|
-| <td colspan=3>тип сделки РД LmFrameDealTypeCode
+| <td colspan=3>тип сделки РД LmFrameDealTypeCode</td> |
 | sCode | DealType_ Factoring                                                   | DealType_FactoringNoRegress                                 |
 | Name  | "Факторинг c регрессом"                                               | "Факторинг без регресса"                                    |
 |       |                                                                       |                                                             |
